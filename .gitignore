@@ -1,0 +1,4 @@
+New-Item -Name .gitignore -ItemType File -Force
+Add-Content .gitignore "bootstrap-5.3.8-dist/"
+Add-Content .gitignore "one/"
+Add-Content .gitignore "tow/"
